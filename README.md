@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://i-shivshant.vercel.app/](https://i-shivshant.vercel.app/)
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **shivshantsyco@gmail.com**
 
