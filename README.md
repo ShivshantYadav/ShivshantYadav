@@ -1,62 +1,119 @@
-# 🚀 Shivsant Kumar | Java Full Stack Developer
-
-<p align="left">
-  <a href="https://linkedin.com/in/shivshantyadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivsant.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://shivshant.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-### 👨‍💻 Professional Profile
-[cite_start]Results-driven **Java Full Stack Developer** with expertise in building scalable, secure, and high-performance web applications[cite: 4]. [cite_start]Currently contributing to enterprise solutions as a **Java Full Stack Developer Intern** at **Solugenious AI Techs**[cite: 42]. [cite_start]I specialize in clean architecture, RESTful API design, and delivering seamless end-to-end user experiences[cite: 5, 6].
-
----
-
-### 🛠️ Technical Ecosystem
-
-| Category | Skills |
-| :--- | :--- |
-| **Backend** | [cite_start]Java, Spring Boot, Spring MVC, Hibernate, JPA, Microservices [cite: 8, 9] |
-| **Frontend** | [cite_start]React.js, JavaScript, Tailwind CSS, Bootstrap, HTML5/CSS3 [cite: 8, 10] |
-| **Database** | [cite_start]MySQL, SQL, MongoDB [cite: 11] |
-| **Security** | [cite_start]JWT Authentication, OTP Verification, Role-Based Access Control (RBAC) [cite: 19, 26] |
-| **Tools** | [cite_start]Git, GitHub, Maven, Postman, AWS (Basic), Vercel [cite: 12, 13] |
-
----
-
-### 📂 Featured Enterprise Projects
-
-#### 🏦 **FluxBank | Enterprise Banking System**
-* [cite_start]**Architecture:** Built a secure enterprise-level banking system using **Spring Boot**, **React.js**, and **MySQL**[cite: 25].
-* [cite_start]**Core Modules:** Developed account management, fund transfers, loan processing, and fraud detection[cite: 27].
-* [cite_start]**Security:** Implemented JWT-based auth and OTP-based two-factor authentication[cite: 26].
-
-#### 🔄 **Community Resource Sharing Platform**
-* [cite_start]**Solution:** A full-stack platform enabling community members to rent or share resources[cite: 17].
-* [cite_start]**Control:** Implemented role-based dashboards for users, owners, and administrators[cite: 18].
-* [cite_start]**Workflow:** Built a structured request approval workflow with real-time notifications[cite: 20, 21].
-
-#### 🛒 **SmartRetail PRO | POS & Inventory System**
-* [cite_start]**Operations:** Supports billing, inventory tracking, and multi-store management[cite: 31].
-* [cite_start]**Features:** Integrated QR-based product scanning and automated loyalty rewards[cite: 32].
-
----
-
-### 📈 GitHub Metrics
+<h1 align="center">Hi 👋, I'm Shivshant Yadav</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React.js</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivshantyadav&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivshantyadav&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" width="45%" alt="Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;React+%7C+REST+APIs;Building+Scalable+Applications&center=true&width=550&height=45">
 </p>
 
 ---
 
-### 🧠 Current Focus
-* 🚀 **Project:** Scaling **Stay-Nova**, a modern full-stack web application.
-* [cite_start]🌱 **Learning:** Deep diving into Advanced Spring Boot, Microservices, and System Design[cite: 14].
-* ⚡ **Fun Fact:** I debug faster with a cup of chai ☕.
+### 👨‍💻 Professional Summary
+
+Results-driven **Java Full Stack Developer** with hands-on experience in building scalable, secure, and high-performance applications using:
+
+- **Java, Spring Boot, Hibernate, JPA**
+- **React.js, JavaScript, Tailwind, Bootstrap**
+- **MySQL, MongoDB**
+- REST APIs, JWT Authentication, Microservices
+
+Strong understanding of system design, clean architecture, and backend optimization.
+
+---
+
+### 🚀 Experience
+
+**💼 Java Full Stack Developer Intern**  
+📍 Solugenious AI Techs (Feb 2026 – Mar 2026)
+
+- Developed scalable full-stack applications using Spring Boot & React
+- Built and integrated REST APIs with frontend
+- Improved performance and debugging issues
+- Worked in Agile environment using Git
+
+**💼 Web Development Intern**  
+📍 CN Digital (Mar 2025 – May 2025)
+
+- Built responsive UI using HTML, CSS, JavaScript
+- Improved UI/UX and performance optimization
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,tailwind,bootstrap,mysql,mongodb,git,github,aws,postman,vscode" />
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+#### 🔹 Community Resource Sharing Platform
+- Full-stack platform for renting/sharing resources
+- Role-based dashboards (User/Admin/Owner)
+- JWT Authentication + OTP verification
+- Booking system & real-time notifications
+
+#### 🔹 FluxBank — Enterprise Banking System
+- Secure banking system with authentication & authorization
+- Features: fund transfer, loan processing, fraud detection
+- Built using Spring Boot + React + MySQL
+
+#### 🔹 SmartRetail PRO — POS System
+- Inventory + billing system with QR scanning
+- Coupon system, loyalty rewards, dashboards
+
+#### 🔹 ShopNest — E-Commerce App
+🌐 https://shopnest-two.vercel.app  
+- Product listing, cart, wishlist
+- Advanced filtering and routing
+- Fully responsive UI
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivshantYadav&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivshantYadav&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivshantYadav&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shivshantyadav">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+📧 Email: shivsant.dev@gmail.com  
+🌐 Portfolio: https://shivshant.vercel.app  
+
+---
+
+### 🎯 Career Objective
+
+- Crack product-based companies 🚀  
+- Master **Spring Boot + Microservices + System Design**  
+- Build scalable real-world applications  
+
+---
+
+### 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">
+🔥 Consistency + Projects = Success 🔥
+</p>
