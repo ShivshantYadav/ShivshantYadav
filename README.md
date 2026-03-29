@@ -68,18 +68,13 @@ Results-driven **Java Full Stack Developer** with experience in building scalabl
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivshantYadav&show_icons=true&theme=tokyonight" />
-</p>
+ 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivshantYadav&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivshantYadav&layout=compact&theme=tokyonight" />
-</p>
-
+ 
 ---
 
 ### 🌐 Connect With Me
