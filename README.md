@@ -5,18 +5,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;React+%7C+REST+APIs;Building+Scalable+Applications&center=true&width=550&height=45">
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
 ---
 
 ### 👨‍💻 Professional Summary
 
-Results-driven **Java Full Stack Developer** with hands-on experience in building scalable, secure, and high-performance applications using:
+Results-driven **Java Full Stack Developer** with experience in building scalable and secure applications using:
 
 - **Java, Spring Boot, Hibernate, JPA**
 - **React.js, JavaScript, Tailwind, Bootstrap**
 - **MySQL, MongoDB**
 - REST APIs, JWT Authentication, Microservices
-
-Strong understanding of system design, clean architecture, and backend optimization.
 
 ---
 
@@ -25,16 +25,16 @@ Strong understanding of system design, clean architecture, and backend optimizat
 **💼 Java Full Stack Developer Intern**  
 📍 Solugenious AI Techs (Feb 2026 – Mar 2026)
 
-- Developed scalable full-stack applications using Spring Boot & React
-- Built and integrated REST APIs with frontend
-- Improved performance and debugging issues
-- Worked in Agile environment using Git
+- Developed scalable full-stack applications using Spring Boot & React  
+- Built REST APIs and integrated frontend  
+- Improved performance and debugging  
+- Worked in Agile environment  
 
 **💼 Web Development Intern**  
 📍 CN Digital (Mar 2025 – May 2025)
 
-- Built responsive UI using HTML, CSS, JavaScript
-- Improved UI/UX and performance optimization
+- Built responsive UI using HTML, CSS, JavaScript  
+- Improved UI/UX and performance  
 
 ---
 
@@ -49,25 +49,20 @@ Strong understanding of system design, clean architecture, and backend optimizat
 ### 🏗️ Featured Projects
 
 #### 🔹 Community Resource Sharing Platform
-- Full-stack platform for renting/sharing resources
-- Role-based dashboards (User/Admin/Owner)
-- JWT Authentication + OTP verification
-- Booking system & real-time notifications
+- Role-based dashboards (User/Admin/Owner)  
+- JWT Authentication + OTP verification  
+- Booking & real-time notifications  
 
 #### 🔹 FluxBank — Enterprise Banking System
-- Secure banking system with authentication & authorization
-- Features: fund transfer, loan processing, fraud detection
-- Built using Spring Boot + React + MySQL
+- Secure banking system with authentication  
+- Fund transfer, loan processing, fraud detection  
 
 #### 🔹 SmartRetail PRO — POS System
-- Inventory + billing system with QR scanning
-- Coupon system, loyalty rewards, dashboards
+- Inventory + billing with QR scanning  
+- Coupons, rewards, dashboards  
 
-#### 🔹 ShopNest — E-Commerce App
+#### 🔹 ShopNest — E-Commerce App  
 🌐 https://shopnest-two.vercel.app  
-- Product listing, cart, wishlist
-- Advanced filtering and routing
-- Fully responsive UI
 
 ---
 
