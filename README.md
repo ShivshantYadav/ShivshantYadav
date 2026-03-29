@@ -1,33 +1,70 @@
+<h1 align="center">Hi 👋, I'm Shivshant Yadav</h1>
+<h3 align="center">🚀 Full Stack Developer | Java & Spring Boot Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm Shivshant !</h1>
-<h3 align="center">A Passionate FullStack Developer from India</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" alt="coding" width="400"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivshantyadav&label=Profile%20views&color=0e75b6&style=flat" alt="shivshantyadav" /> </p>
-
-- 🔭 I’m currently working on [Stay-Nova](https://stay-nova.vercel.app/)
-
-- 🌱 I’m currently learning **SpringBoot**
-
-- 👨‍💻 All of my projects are available at [https://i-shivshant.vercel.app/](https://i-shivshant.vercel.app/)
-
-- 💬 Ask me about **Spring Boot**
-
-- 📫 How to reach me **shivshantsyco@gmail.com**
-
-- 📄 Know about my experiences [https://i-shivshant.vercel.app/](https://i-shivshant.vercel.app/)
-
-- ⚡ Fun fact **😜**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivshantyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivshantyadav" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivshantyadav&show_icons=true&locale=en&layout=compact" alt="shivshantyadav" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivshantyadav&show_icons=true&locale=en" alt="shivshantyadav" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivshantyadav&" alt="shivshantyadav" /></p>
+- 🔭 Currently working on **Stay-Nova**
+- 🌱 Learning **Spring Boot & Backend Development**
+- 💬 Ask me about **Java, Spring Boot, React**
+- 📫 Reach me: **shivshantsyco@gmail.com**
+- 🌐 Portfolio: **https://shivshant.vercel.app/**
+- ⚡ Fun fact: *I debug faster with chai ☕😄*
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shivshantyadav" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,bootstrap,sass,mongodb,mysql,python,c,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivshantyadav&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivshantyadav&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivshantyadav&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🚀 Featured Project
+
+🔹 **Stay-Nova**  
+👉 https://stay-nova.vercel.app/  
+*A modern full-stack web app (mention features like booking, UI, etc.)*
+
+---
+
+### 🧠 Currently Learning
+
+```diff
++ Spring Boot (Advanced)
++ REST APIs
++ System Design Basics
