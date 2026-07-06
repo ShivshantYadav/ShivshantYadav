@@ -61,13 +61,13 @@ I work across both **Java (Spring Boot)** and **.NET (ASP.NET Core)** to build a
 ### 🛠️ Tech I Work With
 
 **Backend:**  
-Java, Spring Boot, ASP.NET Core, REST APIs  
+C#, ASP.NET Core, Java, SpringBoot, REST APIs  
 
 **Frontend:**  
-React.js, JavaScript, Tailwind, Bootstrap  
+Angular, React.js, JavaScript,TypeScript Tailwind, Bootstrap  
 
 **Database:**  
-MySQL, MongoDB, SQL Server  
+SQL Server, MySQL 
 
 ---
 
